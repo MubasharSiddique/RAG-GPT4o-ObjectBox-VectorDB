@@ -11,7 +11,7 @@ This project builds a Retrieval-Augmented Generation (RAG) system using OpenAI's
 
 ## Links🔗:
 - [Docs:📚](https://docs.objectbox.io/ann-vector-search)
-- [Github Code⚡💻](https://github.com/MubasharSiddique/Building-RAG-With-OpenAI-GPT-4o-omni-Model-Using-Objectbox-Vector-Database/blob/main/GPT4o_Lanchain_RAG.ipynb)
+- [Github Code⚡💻](https://github.com/MubasharSiddique/RAG-GPT4o-ObjectBox-VectorDB/blob/main/GPT4o_Lanchain_RAG.ipynb)
 
 
  ---
